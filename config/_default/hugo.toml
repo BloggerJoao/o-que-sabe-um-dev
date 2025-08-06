@@ -1,4 +1,4 @@
-baseURL = 'https://github.io/bloggerjoao/o-que-sabe-um-dev'
+baseURL = 'https://bloggerjoao.github.io/o-que-sabe-um-dev'
 language = 'pt-BR'
 title = 'O que sabe um dev?'
 theme = 'ananke'
