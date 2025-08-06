@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on O que sabe um dev?</title>
-    <link>http://localhost:1313/bloggerjoao/o-que-sabe-um-dev/posts/</link>
+    <link>https://github.io/bloggerjoao/o-que-sabe-um-dev/posts/</link>
     <description>Recent content in Posts on O que sabe um dev?</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/bloggerjoao/o-que-sabe-um-dev/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Gerenciar várias árvores de trabalho com git</title>
-      <link>http://localhost:1313/bloggerjoao/o-que-sabe-um-dev/posts/01/</link>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/bloggerjoao/o-que-sabe-um-dev/posts/01/</guid>
-      <description>&lt;p&gt;Não é incomum na minha experiência surgir uma emergência no meio do desenvolvimento de uma&#xA;funcionalidade. Seja um erro crítico em produção, um pedido de um colega para revisar seu código&#xA;localmente, ou uma exigência não planejada de produto mais prioritária que a tarefa na qual estou&#xA;trabalhando.&#xA;Seja qual for a razão, devo deixar as alterações feitas até aquele momento para me dedicar à nova&#xA;demanda.&lt;/p&gt;&#xA;&lt;p&gt;Ao longo do tempo lidei com esse tipo de situação de diferente maneiras, e aqui compartilho&#xA;brevemente cada uma delas.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://github.io/bloggerjoao/o-que-sabe-um-dev/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
